@@ -62,7 +62,7 @@ export default function Home() {
   };
 
   return (
-    <div className="p-6 max-w-5xl mx-auto space-y-6">
+     <div className="p-6 max-w-5xl mx-auto space-y-6">
       <header className="text-center p-6 bg-gradient-to-r from-blue-500 to-purple-600 text-white rounded-lg shadow-lg">
         <h1 className="text-4xl font-bold flex items-center justify-center gap-3">
           <Trophy className="w-10 h-10" /> JB Badminton Pairing System
