@@ -164,8 +164,7 @@ export default function Home() {
 
       <footer className="text-center p-6 bg-gray-100 rounded-lg shadow-md">
         <p className="text-lg">
-          &copy; {new Date().getFullYear()} Badminton Pairing System. All rights
-          reserved.
+         Made with Love By Rijo Joy - https://github.com/rijojoy
         </p>
       </footer>
     </div>
